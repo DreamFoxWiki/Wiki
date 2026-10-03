@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: DreamFox 🦊
+  structure:
+    - type: space
+      key: space-1
+      title: DreamFox
+      path: dreamfox
+      default: true
+      content:
+        directory: ./dreamfox
+        language: ru
