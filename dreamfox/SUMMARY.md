@@ -45,6 +45,7 @@
   * [Алхимия](o-proekte/osobennosti/alkhimiya.md)
   * [Мутации счастливых гастов](o-proekte/osobennosti/mutacii-schastlivykh-gastov.md)
   * [Создание моделей](o-proekte/osobennosti/sozdanie-modelei.md)
+  * [Подлезание](o-proekte/osobennosti/podlezanie.md)
   * [Вагонетки](o-proekte/osobennosti/vagonetki.md)
 * [Крафты](o-proekte/krafty/README.md)
   * [Палка отладки](o-proekte/krafty/palka-otladki.md)
