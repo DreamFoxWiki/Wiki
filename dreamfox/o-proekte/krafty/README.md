@@ -72,3 +72,7 @@ icon: pen-ruler
 {% content-ref url="beton-v-kotle.md" %}
 [beton-v-kotle.md](beton-v-kotle.md)
 {% endcontent-ref %}
+
+{% content-ref url="svetyashiisya-chernilnyi-meshok.md" %}
+[svetyashiisya-chernilnyi-meshok.md](svetyashiisya-chernilnyi-meshok.md)
+{% endcontent-ref %}

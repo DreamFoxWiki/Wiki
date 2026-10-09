@@ -63,6 +63,7 @@
   * [Губки](o-proekte/krafty/gubki.md)
   * [Листва](o-proekte/krafty/listva.md)
   * [Укрепленный глубинный сланец](o-proekte/krafty/ukreplennyi-glubinnyi-slanec.md)
+  * [Светящийся чернильный мешок](o-proekte/krafty/svetyashiisya-chernilnyi-meshok.md)
   * [Бетон в котле](o-proekte/krafty/beton-v-kotle.md)
 
 ## ПОЛЕЗНЫЕ САЙТЫ
