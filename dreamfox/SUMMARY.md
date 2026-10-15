@@ -28,7 +28,7 @@
   * [Подарок за голос](o-proekte/vasha-podderzhka/podarok-za-golos.md)
 * [Особенности](o-proekte/osobennosti/README.md)
   * [Расы](o-proekte/osobennosti/rasy.md)
-  * [Copy of Расы](o-proekte/osobennosti/copy-of-rasy.md)
+  * [.Расы](o-proekte/osobennosti/.rasy.md)
   * [Кастомная музыка](o-proekte/osobennosti/kastomnaya-muzyka.md)
   * [Камеры](o-proekte/osobennosti/kamery.md)
   * [Мячик](o-proekte/osobennosti/myachik.md)
