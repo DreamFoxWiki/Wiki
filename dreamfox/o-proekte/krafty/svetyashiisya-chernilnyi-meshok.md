@@ -7,4 +7,4 @@ icon: pen-fancy
 
 # Светящийся чернильный мешок
 
-<figure><img src="../../.gitbook/assets/glow_ink_sac.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/glow_ink_sac.webp" alt="" width="528"><figcaption></figcaption></figure>

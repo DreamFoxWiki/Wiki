@@ -148,7 +148,7 @@ layout:
 
 ### <mark style="color:$success;">**«Шагоход»**</mark>
 
-<table><thead><tr><th width="374">Описание</th><th data-type="rating" data-max="5">Максимальный уровень</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p></p><ul><li>Зачарование, увеличивающее высоту шага игрока на (0,5 / 1) блок</li><li>Можно наложить на поножи</li><li>Биом: <a href="https://minecraft.fandom.com/ru/wiki/%D0%93%D1%80%D0%B8%D0%B1%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8F"><strong>Грибные поля</strong></a> (<em>Mushroom Fields</em>)</li><li><em>Шанс улова - 1%</em></li></ul></td><td>2</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="374">Описание</th><th data-type="rating" data-max="5">Максимальный уровень</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><p></p><ul><li>Зачарование, увеличивающее высоту шага игрока на 0.5 блока за уровень</li><li>Можно наложить на поножи</li><li>Биом: <a href="https://minecraft.fandom.com/ru/wiki/%D0%93%D1%80%D0%B8%D0%B1%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8F"><strong>Грибные поля</strong></a> (<em>Mushroom Fields</em>)</li><li><em>Шанс улова - 1%</em></li></ul></td><td>2</td><td></td><td></td></tr></tbody></table>
 
 ### <mark style="color:$danger;">**«Проклятость»**</mark>
 
