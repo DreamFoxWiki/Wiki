@@ -70,4 +70,4 @@ layout:
 * [Шестой сезон](istoriya-servera/6-sezon.md)
 * [Седьмой сезон](istoriya-servera/7-sezon.md)
 * [Легенды проекта](istoriya-servera/legendy-proekta.md)
-* [Интересные истории](/broken/pages/4JCmHhn0j2IkzfICxiVa)
+* [Интересные истории](istoriya-servera/interesnye-istorii/)
