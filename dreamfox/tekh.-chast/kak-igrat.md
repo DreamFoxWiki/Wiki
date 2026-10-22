@@ -39,6 +39,6 @@ layout:
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2022-09-21 091035.png" alt=""><figcaption><p>Запускаем игру, нажимаем кнопку "Сетевая игра" и нажимаем сюда</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Снимок экрана 2022-09-21 091143.png" alt=""><figcaption><p>Добавляем IP адрес одного из серверов и ставим "Наборы ресурсов" на запрашивать, ведь у нас есть свой ресурспак!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана 2022-09-21 091143.png" alt=""><figcaption><p>Добавляем IP адрес сервера и ставим "Наборы ресурсов" на запрашивать, ведь у нас есть свой ресурспак!</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2022-09-21 091249.png" alt=""><figcaption><p>Вы прекрасны, наслаждайтесь игрой! Но перед этим заполните заявку у нас в дискорде!</p></figcaption></figure>
