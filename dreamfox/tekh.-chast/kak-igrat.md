@@ -31,7 +31,7 @@ layout:
 Ссылка на лаунчер: [https://tlaun.ch/exe](https://tlaun.ch/exe)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Снимок экрана 2022-09-21 090451.png" alt=""><figcaption><p>Настройте свой аккаунт и выберете версию игры (желательно Fabric)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана 2022-09-21 090451.png" alt=""><figcaption><p>Настройте свой аккаунт и выберите версию игры (желательно Fabric)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2022-09-21 090705.png" alt=""><figcaption><p>Отключаем ненужную рекламу в лаунчере</p></figcaption></figure>
 

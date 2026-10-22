@@ -25,8 +25,8 @@ layout:
 
 # Особенности
 
-{% content-ref url="/broken/pages/x0uK1aU4jl7eJDgLQjZo" %}
-[Broken link](/broken/pages/x0uK1aU4jl7eJDgLQjZo)
+{% content-ref url="rasy.md" %}
+[rasy.md](rasy.md)
 {% endcontent-ref %}
 
 {% content-ref url="kastomnaya-muzyka.md" %}
