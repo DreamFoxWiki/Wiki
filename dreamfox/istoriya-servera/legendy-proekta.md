@@ -31,6 +31,14 @@ icon: comet
 
 Воплощение собственных постpоек, самый крутой рисунок обложки сервера, а так же за активное участие в жизни проекта!
 
+<h2 align="center"><mark style="color:orange;">I_Toshi_I</mark></h2>
+
+<figure><img src="../.gitbook/assets/avatarHead2 (10).png" alt="" width="375"><figcaption><p>Голова игрока</p></figcaption></figure>
+
+**Администрация выражает благодарность игроку&#x20;**<mark style="color:$primary;">**I\_Toshi\_I**</mark>**&#x20;за..**
+
+Большое количество времени, проведённого на проекте, организацию ивентов, воплощение собственных постpоек, а так же за активное участие в жизни сервера!
+
 <h2 align="center"><mark style="color:orange;"><strong>Waldemarrin</strong></mark></h2>
 
 <figure><img src="../.gitbook/assets/Waldemarrin.png" alt="" width="375"><figcaption><p>Голова игрока</p></figcaption></figure>
