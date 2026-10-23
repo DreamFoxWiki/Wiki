@@ -93,8 +93,8 @@ layout:
 [sozdanie-modelei.md](sozdanie-modelei.md)
 {% endcontent-ref %}
 
-{% content-ref url="podlezanie.md" %}
-[podlezanie.md](podlezanie.md)
+{% content-ref url="prolezanie.md" %}
+[prolezanie.md](prolezanie.md)
 {% endcontent-ref %}
 
 {% content-ref url="vagonetki.md" %}

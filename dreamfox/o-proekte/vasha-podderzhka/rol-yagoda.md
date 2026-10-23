@@ -24,25 +24,26 @@ layout:
 
 # Роль «Ягода» 🧡
 
-Команда проекта искренне благодарит всех, кто поддерживает сервер донатами. Мы хотим выразить свою признательность не только словами, но и интересными, уникальными функциями в игре.
+Команда проекта искренне благодарит всех, кто поддерживает сервер пожертвованиями. Мы хотим выразить свою признательность не только словами, но и интересными, уникальными функциями в игре.
 
-{% hint style="warning" icon="comment-pen" %}
-<mark style="color:orange;">**Роль**</mark> можно получить навсегда при материальной поддержке от 600 рублей!
+{% hint style="info" %}
+<mark style="color:orange;">**Роль**</mark> можно получить навсегда при материальной поддержке от 650 рублей!
 {% endhint %}
 
-{% hint style="warning" icon="coins" %}
+{% hint style="success" %}
 **Роль «Ягода» на 1 месяц** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 200 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **Роль «Ягода» на** **3 месяца** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 300 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **Роль «Ягода» навсегда** <img src="../../.gitbook/assets/image (243).png" alt="" data-size="line"> — 650 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **Покупка любой команды или возможности роли навсегда** — 150 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **Разбан** (обсуждается с администрацией до оплаты) — 999 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
+**Смена ника** —  100 рублей <img src="../../.gitbook/assets/image (781).png" alt="" data-size="line">\
 **«Быстрая проходка»** — 299 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Сделать модель в ресурс-пак персонально для вас от игрока ElizarovS** (доп. информация в канале ⁠&#x1F4DD;_&#x41E;бращения_ в Discord) — от 100 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
+**Сделать модель в ресурс-пак персонально для вас** (доп. информация в канале ⁠&#x1F4DD;_&#x41E;бращения_ в Discord) — от 200 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **Персональная моделька для вашего персонажа в моде CPM от игрока Uwka** (доп. информация в канале ⁠&#x1F4DD;_&#x41E;бращения_ в Discord) — от 450 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">
 {% endhint %}
 
 {% hint style="warning" icon="comment-pen" %}
-Также может быть <mark style="color:orange;">**временно**</mark> получено за организацию ивентов и в качестве награды на них. Администрация самостоятельно решает, за какой ивент и на какой срок выдавать эту роль.
+Также **роль "Ягода"** может быть получена за организацию ивентов и в качестве награды на них. Администрация самостоятельно решает, за какой ивент и на какой срок выдавать эту роль.
 {% endhint %}
 
 ### **Игроки с ролью «Ягода🧡» получают возможность:**
@@ -69,7 +70,7 @@ layout:
 
 **/ptime** <mark style="color:orange;">\[время]</mark> — установка личного времени, <mark style="color:orange;">/</mark>**ptime** <mark style="color:orange;">reset</mark> — сбросить.
 
-**/pweather** <mark style="color:orange;">\[цикл погоды]</mark> — установка личной погоды, <mark style="color:orange;">/</mark>**pweather** <mark style="color:orange;">reset</mark> — сбросить.Запрещено абузить полет на трезубце через смену погоды на дождь. (В наказание снятие роли + бан на 14 дней)
+**/pweather** <mark style="color:orange;">\[цикл погоды]</mark> — установка личной погоды, <mark style="color:orange;">/</mark>**pweather** <mark style="color:orange;">reset</mark> — сбросить. Запрещено абузить полет на трезубце через смену погоды на дождь. (В наказание снятие роли + бан на 14 дней)
 
 **/lore** — справка по команде.
 
@@ -113,12 +114,12 @@ layout:
 
 <div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/image (533).png" alt=""><figcaption><p><em>Цветовое форматирование</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (534).png" alt=""><figcaption><p><em>Текстовое форматирование</em></p></figcaption></figure></div>
 
-{% hint style="warning" icon="comment-pen" %}
-Функции гармонично вписываются в игровой мир и не дают игрокам никаких преимуществ. Решение о введении этой роли было принято в результате голосования в [<mark style="color:orange;">**Discord-канале**</mark>](https://discord.com/channels/956981761802375228/1133769424764162099/1249981605020303451) проекта.
+{% hint style="success" %}
+Функции гармонично вписываются в игровой мир и не дают игрокам никаких игровых преимуществ. Решение о введении этой роли было принято в результате голосования в [<mark style="color:orange;">**Discord-канале**</mark>](https://discord.com/channels/956981761802375228/1133769424764162099/1249981605020303451) проекта.
 {% endhint %}
 
-{% hint style="warning" icon="comment-pen" %}
-Если у вас есть идеи о том, какие новые функции можно добавить в эту роль, вы можете поделиться ими в разделе 📝«Обращения» нашего [<mark style="color:orange;">**Discord-канала**</mark>](https://discord.com/channels/956981761802375228/1133769424764162099/1249981605020303451).
+{% hint style="info" %}
+Если у вас есть идеи о том, какие новые функции можно добавить в эту роль, вы можете поделиться ими в разделе 📝«[Обращения](https://discord.com/channels/956981761802375228/1245232823510503428)» нашего либо в канале "[ягодные-идеи](https://discord.com/channels/956981761802375228/1482346098986193018)"
 {% endhint %}
 
 [^1]: Пример: [&4](https://minecraft.fandom.com/ru/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0#%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)Привет = <mark style="color:red;">Привет</mark>.

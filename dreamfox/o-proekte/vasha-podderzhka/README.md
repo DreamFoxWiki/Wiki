@@ -35,7 +35,7 @@ layout:
 {% endhint %}
 
 {% hint style="warning" icon="sparkle" %}
-Дополнительные награды и [**Роль «Ягода»**](rol-yagoda.md) можно получить навсегда при материальной поддержке от 600 рублей!
+Дополнительные награды и [**Роль «Ягода»**](rol-yagoda.md) можно получить навсегда при материальной поддержке от 650 рублей!
 {% endhint %}
 
 ### Финансовая поддержка сервера ➜ [<mark style="color:orange;">**yoomoney**</mark>](https://yoomoney.ru/fundraise/14CTJNQ1VCD.240803) ❤
