@@ -55,6 +55,7 @@ layout:
 * [Мониторинги, где есть наш сервер](o-proekte/vasha-podderzhka/)
 * [Особенности проекта и плагины](o-proekte/osobennosti/)
 * [Благодарность за поддержку проекта](o-proekte/vasha-podderzhka/rol-yagoda.md)
+* [Плагин Brewery](https://app.gitbook.com/s/AykAG7y9miMbfCc7aJlP/plagin-brewery)
 
 ## **∞ сезон**
 
