@@ -7,9 +7,9 @@ icon: face-angry-horns
 
 # Спавнеры
 
-<figure><img src="../../.gitbook/assets/добыча.gif" alt="" width="563"><figcaption><p>Процесс добычи спавнера </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/добыча.gif" alt="" width="563"><figcaption><p>Процесс добычи спавнера</p></figcaption></figure>
 
-Так же доступна возможность отключить работу спавнера, подав на него редстоун сигнал.
+Также доступна возможность отключить работу спавнера, подав на него редстоун сигнал.
 
 <figure><img src="../../.gitbook/assets/откл.ючениеgif.gif" alt="" width="563"><figcaption><p>Пример отключения работы спавнера</p></figcaption></figure>
 

@@ -41,7 +41,7 @@ layout:
 * <mark style="color:orange;">**Разработчик**</mark> 💻 – уникальная роль, вручена <mark style="color:orange;">miniking1000</mark> за помощь с плагинами для проекта.
 * [<mark style="color:purple;">**Драконорожденный**</mark>**&#x20;🐲**](https://discord.com/channels/956981761802375228/957264312198631424/1276367917868515362) – единственный игрок c ролью <mark style="color:orange;">Schmierrohrlinge</mark> за получение головы дракона (мини-игра) на мониторинге [<mark style="color:orange;">hotmc</mark>](https://hotmc.ru/minecraft-server-224603)[**.**](https://hotmc.ru/minecraft-server-224603)
 
-### <mark style="color:orange;">Сезонный роли ⛰️</mark>
+### <mark style="color:orange;">Сезонные роли ⛰️</mark>
 
 * <mark style="color:red;">**1 сезон**</mark>**&#x20;🏔️** – _<mark style="color:orange;">Олды на месте?</mark>_ Имеется у игроков, которые начали играть на 1 сезоне.
 * <mark style="color:red;">**2 сезон**</mark>**&#x20;🏔️** – _<mark style="color:orange;">Ты помнишь этот чудесный город?</mark>_ Имеется у игроков, которые начали играть на 2 сезоне.
@@ -80,4 +80,3 @@ layout:
 * <mark style="color:red;">**Лисичка Алиса**</mark> 🦊 – возможно, это живой бот Алиса 🦊
 * <mark style="color:orange;">**ЛисоБот**</mark> 👥 – наши трудолюбивые и почетные сотрудники боты.
 * <mark style="color:orange;">**JuniperBot**</mark> – бот на отслеживание [статистики](https://discord.com/channels/956981761802375228/1112805690499666081) пользователей в дискорд.
-

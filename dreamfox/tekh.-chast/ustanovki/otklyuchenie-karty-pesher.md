@@ -7,7 +7,7 @@ icon: layer
 
 #### <mark style="color:$success;">**Отключение карты пещер для Xaero's Minimap**</mark>
 
-Откройте настройки мода через <mark style="color:$primary;">modmenu</mark> или клавишу <mark style="color:$primary;">Y</mark>&#x20;
+Откройте настройки мода через <mark style="color:$primary;">modmenu</mark> или клавишу <mark style="color:$primary;">Y</mark>
 
 <figure><img src="https://media.discordapp.net/attachments/1286068335527727125/1545528322942042172/2026-09-04_19.55.22.png?ex=6a9c78ea&#x26;is=6a9b276a&#x26;hm=0453cffcb23343dd76d47fa6afa41e1697cf8b7d06c01a3776442d855d6cead9&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=2048&#x26;height=1078" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ icon: layer
 
 <figure><img src="https://media.discordapp.net/attachments/1286068335527727125/1545548540514934804/image.png?ex=6a9c8bbe&#x26;is=6a9b3a3e&#x26;hm=66c8d8e6e7b49240555a6c8c0bdc040c5d038149096e6fb4bf8a2cb1ffb8ea6c&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=2048&#x26;height=1151" alt=""><figcaption></figcaption></figure>
 
-Вам нужно по очереди перейти в оба режима миникарты, а так же полноэкранной карты
+Вам нужно по очереди перейти в оба режима миникарты, а также полноэкранной карты
 
 <figure><img src="https://media.discordapp.net/attachments/1286068335527727125/1545548596844306462/image.png?ex=6a9c8bcc&#x26;is=6a9b3a4c&#x26;hm=a5ae703166b6f0af5d593a27ad3014c3b2c43151c974370aac01854b5eda6352&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1024&#x26;height=576" alt=""><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ icon: book-open-cover
 ## Карта пещер <img src="../../.gitbook/assets/image (669).png" alt="" data-size="line">
 
 Запрещено использование режима пещер на картах для обнаружения структур и прочих нужд.\
-Нарушение запрета карается <mark style="color:$tint;">**временной блокировкой**</mark> на проекте.Руководство по отключению карты пещер можно прочитать [тут](../../tekh.-chast/ustanovki/otklyuchenie-karty-pesher.md).\
+Нарушение запрета карается <mark style="color:$tint;">**временной блокировкой**</mark> на проекте. Руководство по отключению карты пещер можно прочитать [тут](../../tekh.-chast/ustanovki/otklyuchenie-karty-pesher.md).\
 Прочитать про другие запрещённые моды можно [_**здесь**_](../../tekh.-chast/zapreshyonnye-mody.md#spisok-zapreshyonnykh-modov)!
 
 ## Копание в лаве <img src="../../.gitbook/assets/image (667).png" alt="" data-size="line">
@@ -23,5 +23,5 @@ icon: book-open-cover
 
 ## Жители<img src="../../.gitbook/assets/image (666).png" alt="" data-size="line">
 
-На каждой территории можно иметь строго до 40 жителей. \
+На каждой территории можно иметь строго до 40 жителей.\
 Одна территория — 300x300 блоков минимум. Территории, которые не соблюдают эти правила, <mark style="color:$tint;">**будут перегенерированы**</mark>, откат территории.

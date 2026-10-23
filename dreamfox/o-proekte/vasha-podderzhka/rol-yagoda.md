@@ -31,10 +31,10 @@ layout:
 {% endhint %}
 
 {% hint style="warning" icon="coins" %}
-**Роль «Ягода» на 1 месяц** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 200 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
-**Роль «Ягода» на** **3 месяца** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 300 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
-**Роль «Ягода» навсегда** <img src="../../.gitbook/assets/image (243).png" alt="" data-size="line"> — 650 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
-**Покупка любой команды или возможности роли навсегда** — 150 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Роль «Ягода» на 1 месяц** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 200 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
+**Роль «Ягода» на** **3 месяца** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 300 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
+**Роль «Ягода» навсегда** <img src="../../.gitbook/assets/image (243).png" alt="" data-size="line"> — 650 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
+**Покупка любой команды или возможности роли навсегда** — 150 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **Разбан** (обсуждается с администрацией до оплаты) — 999 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **«Быстрая проходка»** — 299 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
 **Сделать модель в ресурс-пак персонально для вас от игрока ElizarovS** (доп. информация в канале ⁠&#x1F4DD;_&#x41E;бращения_ в Discord) — от 100 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
@@ -59,8 +59,6 @@ layout:
 * Могут [**записывать музыку**](../osobennosti/kastomnaya-muzyka.md) на пластинки без использования алмазов
 * Уникальную роль в Discord'e!
 
-
-
 ### 📝 **Доступные команды:**
 
 **/co&#x20;**<mark style="color:orange;">**i**</mark> — включает режим просмотра изменений блока.
@@ -71,13 +69,13 @@ layout:
 
 **/ptime** <mark style="color:orange;">\[время]</mark> — установка личного времени, <mark style="color:orange;">/</mark>**ptime** <mark style="color:orange;">reset</mark> — сбросить.
 
-**/pweather** <mark style="color:orange;">\[цикл погоды]</mark> — установка личной погоды, <mark style="color:orange;">/</mark>**pweather** <mark style="color:orange;">reset</mark> — сбросить.Запрещенно абузить полет на трезубце через смену погоды на дождь. (В наказание снятие роли + бан на 14 дней)
+**/pweather** <mark style="color:orange;">\[цикл погоды]</mark> — установка личной погоды, <mark style="color:orange;">/</mark>**pweather** <mark style="color:orange;">reset</mark> — сбросить.Запрещено абузить полет на трезубце через смену погоды на дождь. (В наказание снятие роли + бан на 14 дней)
 
 **/lore** — справка по команде.
 
-**/lore&#x20;**<mark style="color:orange;">**add**</mark>**&#x20;\[текст]** —  добавляет текст к описанию удерживаемого предмета, сразу после его названия.
+**/lore&#x20;**<mark style="color:orange;">**add**</mark>**&#x20;\[текст]** — добавляет текст к описанию удерживаемого предмета, сразу после его названия.
 
-**/lore&#x20;**<mark style="color:orange;">**set**</mark> **\[номер строки] \[текст]**  — устанавливает текст на указанную строку в описание удерживаемого предмета, заменяет старый текст.
+**/lore&#x20;**<mark style="color:orange;">**set**</mark> **\[номер строки] \[текст]** — устанавливает текст на указанную строку в описание удерживаемого предмета, заменяет старый текст.
 
 **/lore&#x20;**<mark style="color:orange;">**clear**</mark> — удаляет описание удерживаемого предмета.
 
@@ -87,7 +85,7 @@ layout:
 
 **/beezooka** — стрельба взрывными пчелками(чисто эффект)
 
-**/kittycanon** — тоже самое что и **beezooka**, но котиками
+**/kittycanon** — то же самое что и **beezooka**, но котиками
 
 **/art** — [<mark style="color:orange;">**подробнее читайте тут**</mark>](../osobennosti/arty-i-kak-ikh-delat.md).<br>
 
@@ -111,7 +109,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/Untitled10-20-2-01.png" alt=""><figcaption><p><em>&#x26;6&#x26;l</em> <em><mark style="color:orange;"><strong>[текст]</strong></mark></em></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Untitled10-20-2-02 (1).png" alt=""><figcaption><p><em>&#x26;6&#x26;m  </em><del><em><mark style="color:orange;">[текст]</mark></em></del></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled10-20-2-02 (1).png" alt=""><figcaption><p><em>&#x26;6&#x26;m </em><del><em><mark style="color:orange;">[текст]</mark></em></del></p></figcaption></figure>
 
 <div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/image (533).png" alt=""><figcaption><p><em>Цветовое форматирование</em></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (534).png" alt=""><figcaption><p><em>Текстовое форматирование</em></p></figcaption></figure></div>
 
@@ -122,7 +120,5 @@ layout:
 {% hint style="warning" icon="comment-pen" %}
 Если у вас есть идеи о том, какие новые функции можно добавить в эту роль, вы можете поделиться ими в разделе 📝«Обращения» нашего [<mark style="color:orange;">**Discord-канала**</mark>](https://discord.com/channels/956981761802375228/1133769424764162099/1249981605020303451).
 {% endhint %}
-
-
 
 [^1]: Пример: [&4](https://minecraft.fandom.com/ru/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0#%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)Привет = <mark style="color:red;">Привет</mark>.
