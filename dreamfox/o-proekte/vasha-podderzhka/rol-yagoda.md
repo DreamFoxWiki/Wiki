@@ -31,18 +31,20 @@ layout:
 {% endhint %}
 
 {% hint style="success" %}
-**Роль «Ягода» на 1 месяц** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 200 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Роль «Ягода» на** **3 месяца** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> — 300 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Роль «Ягода» навсегда** <img src="../../.gitbook/assets/image (243).png" alt="" data-size="line"> — 650 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Покупка любой команды или возможности роли навсегда** — 150 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Разбан** (обсуждается с администрацией до оплаты) — 999 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Смена ника** —  100 рублей <img src="../../.gitbook/assets/image (781).png" alt="" data-size="line">\
-**«Быстрая проходка»** — 299 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Сделать модель в ресурс-пак персонально для вас** (доп. информация в канале ⁠&#x1F4DD;_&#x41E;бращения_ в Discord) — от 200 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
-**Персональная моделька для вашего персонажа в моде CPM от игрока Uwka** (доп. информация в канале ⁠&#x1F4DD;_&#x41E;бращения_ в Discord) — от 450 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">
+**1 месяц роли Ягода** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> - 250 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">\
+**3 месяца роли Ягода** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> - 350 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Роль Ягода навсегда** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> - 650 рублей пожертвования на сервер <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Покупка любой команды/возможности роли Ягода** <img src="https://cdn.discordapp.com/emojis/1304447013890560052.webp?size=80" alt=":berry:" data-size="line"> **навсегда** - 150 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Возможность скрывать себя с карты на 6 месяцев** - 300 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Возможность скрывать себя с карты навсегда** - 600 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Снятие блокировки** (обсуждается с администрацией до оплаты) - 999 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**"Быстрая проходка"** - 299 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> **Смена ника** - 100 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Сделать модель в ресурс-пак персонально для вас** (доп. информация в ⁠📝・обращения) - от 350 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Персональная моделька для вашего персонажа в моде** [**CPM**](https://modrinth.com/plugin/custom-player-models) **от @Uwka** (доп. информация в ⁠📝・обращения) - от 500 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Создание плагина по вашей просьбе, обговаривается с администрацией и разработчиком плагинов до покупки** - от 2000 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">
 {% endhint %}
 
-{% hint style="warning" icon="comment-pen" %}
+{% hint style="info" %}
 Также **роль "Ягода"** может быть получена за организацию ивентов и в качестве награды на них. Администрация самостоятельно решает, за какой ивент и на какой срок выдавать эту роль.
 {% endhint %}
 
