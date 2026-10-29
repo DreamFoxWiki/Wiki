@@ -38,7 +38,8 @@ layout:
 **Возможность скрывать себя с карты на 6 месяцев** - 300 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
 **Возможность скрывать себя с карты навсегда** - 600 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
 **Снятие блокировки** (обсуждается с администрацией до оплаты) - 999 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
-**"Быстрая проходка"** - 299 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> **Смена ника** - 100 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**"Быстрая проходка"** - 299 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
+**Смена ника** - 100 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
 **Сделать модель в ресурс-пак персонально для вас** (доп. информация в ⁠📝・обращения) - от 350 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
 **Персональная моделька для вашего персонажа в моде** [**CPM**](https://modrinth.com/plugin/custom-player-models) **от @Uwka** (доп. информация в ⁠📝・обращения) - от 500 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line"> \
 **Создание плагина по вашей просьбе, обговаривается с администрацией и разработчиком плагинов до покупки** - от 2000 рублей <img src="https://cdn.discordapp.com/emojis/957277987131240529.webp?size=80" alt=":diamond:" data-size="line">
