@@ -86,6 +86,7 @@
 * [5 сезон](istoriya-servera/5-sezon.md)
 * [6 сезон](istoriya-servera/6-sezon.md)
 * [7 сезон](istoriya-servera/7-sezon.md)
+* [8 сезон](istoriya-servera/8-sezon.md)
 * [Легенды проекта](istoriya-servera/legendy-proekta.md)
 * [Интересные истории](istoriya-servera/interesnye-istorii/README.md)
   * [«Легендарный копатель»](istoriya-servera/interesnye-istorii/legendarnyi-kopatel.md)
