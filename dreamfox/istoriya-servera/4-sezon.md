@@ -116,7 +116,7 @@ layout:
 Если вы готовы поделиться своим видением истории 4 сезона, вы можете отправить свои варианты в раздел: 📝«Обращения» нашего [Discord](https://discord.gg/8XsKXesDBM) канала.
 {% endhint %}
 
-### Правда «Мечтолисья»
+### Правда Мечтолисья
 
 Новостная газета, которая в основном публиковалась только в [ВК](https://vk.com/dreamfoxmc), появилась с целью сбора новостей про игровое правительство и его нововведения. К сожалению, выполнить свою цель не смогла, так как игровое правительство было отменено. Газета продолжила свою деятельность по игровым новостям. Здесь мы соберём все выпуски, с которыми можно ознакомиться для дополнения информации к истории 4 сезона.
 
@@ -132,7 +132,7 @@ layout:
 
 ## Города
 
-### Спавн <mark style="color:yellow;">«Мечтолисья»</mark>
+### Спавн <mark style="color:yellow;">Мечтолисья</mark>
 
 Спавн можно по праву назвать небольшим, но центральным городом сезона. Здесь располагались различные постройки, а в какой-то период в нём проживали несколько игроков. Сам спавн был выполнен в песочных тонах и сохранял эту палитру до самого конца сезона.
 
@@ -148,9 +148,9 @@ layout:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-12 142004.png" alt="" width="394"><figcaption><p>Карта спавна</p></figcaption></figure>
 
-### «Талангард»
+### Талангард
 
-Самый крупный город, построенный игроками на <mark style="color:yellow;">«Мечтолисье»</mark>. Город был основан игроком <mark style="color:orange;">Tallaris2002 (mas2002\_)</mark> и просуществовал с самого начала сезона до его завершения, что делает его самым большим и активным городом. В Талангарде жило более пяти человек, каждый из которых внёс свой уникальный вклад в его строительство.
+Самый крупный город, построенный игроками на <mark style="color:yellow;">Мечтолисье</mark>. Город был основан игроком <mark style="color:orange;">Tallaris2002 (mas2002\_)</mark> и просуществовал с самого начала сезона до его завершения, что делает его самым большим и активным городом. В Талангарде жило более пяти человек, каждый из которых внёс свой уникальный вклад в его строительство.
 
 Известные жители города: <mark style="color:orange;">Tallaris2002 (mas2002\_), Trelony, Sard23Fun, VINPIX, RINCHYRR.</mark>
 
@@ -202,12 +202,12 @@ layout:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-12 114730.png" alt="" width="512"><figcaption><p>Последнее открытие</p></figcaption></figure>
 
-### «Гильдия Бездельников»
+### Гильдия Бездельников
 
 Цель: бездельничать. Гильдия активно поддерживала свою деятельность, ничем не занимаясь.\
 Известные участники: <mark style="color:orange;">batkobelomor</mark>.
 
-### «Триумвират»
+### Триумвират
 
 Скрытая гильдия, чьи цели остались неясными. На протяжении сезона появлялись странные посты и комментарии, указывающие, что Триумвират наблюдает.
 
@@ -219,7 +219,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-12 135043.png" alt=""><figcaption></figcaption></figure>
 
-### «Белые медведи»
+### Белые медведи
 
 Известные участники: [<mark style="color:orange;">Shm1Shm1Shm1</mark>](#user-content-fn-7)[^7], <mark style="color:orange;">H2Ochess</mark>, возможно, были и другие, но информация утеряна. У гильдии было свое поселение на севере проекта.
 
@@ -227,7 +227,7 @@ layout:
 
 Белые медведи — это группа игроков, живущих на севере. Чтобы вступить в гильдию, нужно отправить анкету, и Белые медведи рассмотрят ваш запрос.
 
-### «Деревня Хатено»
+### Деревня Хатено
 
 Небольшая деревня, организованная <mark style="color:orange;">batkobelomor</mark>, со своей религией — <mark style="color:purple;">Вишнеизм</mark>.
 
@@ -249,7 +249,7 @@ layout:
 
 ## Ивенты
 
-### «Лососёвый фестиваль»
+### Лососёвый фестиваль
 
 Организаторы: <mark style="color:orange;">Trelony</mark> и <mark style="color:orange;">Waldemarrin.</mark>\
 Дата проведения: 21 апреля.\
@@ -259,7 +259,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/4k_2024-04-20_07.25.49_.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### «**Настольняшки**»
+### **Настольняшки**
 
 Организаторы: <mark style="color:orange;">администрация.</mark>\
 Дата проведения: проводился несколько раз. 28 мая, 7 июня, 15 июля.
@@ -271,7 +271,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/huge_2024-05-28_22.20.37.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### «Заявка в президенты»
+### Заявка в президенты
 
 Организаторы: <mark style="color:orange;">администрация.</mark>\
 Дата проведения: с 21 апреля.\
@@ -283,7 +283,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/1 (9).png" alt="" width="563"><figcaption><p>Победитель <mark style="color:orange;">Exeets</mark></p></figcaption></figure>
 
-### «Конкурс на статую в римском стиле»
+### Конкурс на статую в римском стиле
 
 Организаторы: <mark style="color:orange;">TigranG8403 и JamaliSGT</mark>\
 Дата проведения: с 21 мая.
@@ -293,7 +293,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/2024-06-08_19.39.07.png" alt="" width="563"><figcaption><p>Победитель <mark style="color:orange;">Senzichi</mark></p></figcaption></figure>
 
-### «Битва в тронном зале»
+### Битва в тронном зале
 
 Организаторы: <mark style="color:orange;">администрация совместно с игроками</mark>\
 Дата проведения: 24 августа.
@@ -307,7 +307,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/1zRZ9Uek3LM (1).jpg" alt="" width="563"><figcaption><p>Сам босс</p></figcaption></figure>
 
-### «Битва с ордой»
+### Битва с ордой
 
 Организаторы: <mark style="color:orange;">администрация</mark>\
 Дата проведения: 2 сентября.\
@@ -317,9 +317,9 @@ layout:
 
 <figure><img src="../.gitbook/assets/huge_2024-09-04_14.17.53 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-[Видео](https://drive.google.com/file/d/1fyB_8NJozv034V884yDCOHCktM3dYBKD/view?usp=sharing) от лица игрока <mark style="color:orange;">MrSam.</mark>
+[Видео](https://drive.google.com/file/d/1fyB_8NJozv034V884yDCOHCktM3dYBKD/view?usp=sharing) от лица игрока <mark style="color:orange;">\_\_MrSam\_\_.</mark>
 
-### «Мафия»
+### Мафия
 
 Организатор: <mark style="color:orange;">toruWith</mark>\
 Дата проведения: 5 сентября.\
@@ -331,7 +331,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/2024-09-05_19.27.34 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### «Бункер»
+### Бункер
 
 Организатор: <mark style="color:orange;">SHiZi\_13</mark>\
 Дата проведения: 7 сентября.
