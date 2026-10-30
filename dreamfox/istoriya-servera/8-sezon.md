@@ -95,4 +95,18 @@ layout:
 
 <mark style="color:blue;">В конце апреля</mark> в медном куполе на спавне прошёл экстренный аукцион вещей забаненных игроков и артефактов[^1]. Администратор также предложил игрокам обменять 10 артефактов на один мощнейший. В итоге этот самый сильный артефакт получила <mark style="color:$tint;">**Uwka**</mark>.
 
+30 апреля 2026 года. Изначальная граница Верхнего мира составляла 5000x5000 блоков. Чтобы открыть для игроков новые неизведанные территории для застройки и поиска ресурсов, администрация расширила её до 6000x6000 блоков.
+
+В начале мая игру добавили 5 новых кастомных зачарований: [«Листопад»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#listopad), [«Отпор»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#otpor), [«Стрела Края»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#strela-kraya), [«Человечность»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#chelovechnost) и [«XXX»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#xxx).\
+\
+В то же время на сервер вернулись метеориты, застав игроков врасплох. Механика их падения полностью повторяла седьмой сезон: космические тела с нарастающим гулом обрушивались рядом со случайными игроками, оставляя глубокие кратеры, уничтожая постройки в эпицентре и порождая редкие ресурсы. Вместе с метеоритами вернулся и крафт метеоритоотвода, спрос на который резко вырос. А уже 5 мая, был создан отряд ОБРОМ.
+
+<figure><img src="../.gitbook/assets/2026-10-30_12.34.08.png" alt=""><figcaption><p><em>Место падения обсидианового метеорита</em></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/2026-10-30_12.35.10.png" alt=""><figcaption><p><em>Оставшееся от метеорита Края в месе</em></p></figcaption></figure>
+
+Во второй половине мая, а именно <mark style="color:blue;">19 мая 2026 года</mark>, администратор <mark style="color:$tint;">**\_Foxya\_**</mark> представил кастомный инструмент — [ростомерку](../o-proekte/krafty/rostomerka.md), доступную игрокам с ролью  [«Ягода» <img src="../.gitbook/assets/image (814).png" alt="" data-size="line">](../o-proekte/vasha-podderzhka/rol-yagoda.md). С её помощью можно изменять размеры мобов и некоторых сущностей.
+
+В скором времени сервере появилась новая партия кастомных зачарований: [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika), [«Картечь»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#kartech), [«Слаймость»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#slaimost), [«Плавление»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#plavlenie), [«Поступь ткача»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#postup-tkacha) и «Восходящий поток». Зачарование [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika) к этому моменту уже было вручено победителю Рыцарского турнира, который прошёл <mark style="color:blue;">16 мая 2026 года</mark>.
+
 [^1]: Оружие, броня, а также другие предметы с уникальными свойствами или зачарованиями.
