@@ -107,6 +107,36 @@ layout:
 
 Во второй половине мая, а именно <mark style="color:blue;">19 мая 2026 года</mark>, администратор <mark style="color:$tint;">**\_Foxya\_**</mark> представил кастомный инструмент — [ростомерку](../o-proekte/krafty/rostomerka.md), доступную игрокам с ролью  [«Ягода» <img src="../.gitbook/assets/image (814).png" alt="" data-size="line">](../o-proekte/vasha-podderzhka/rol-yagoda.md). С её помощью можно изменять размеры мобов и некоторых сущностей.
 
-В скором времени сервере появилась новая партия кастомных зачарований: [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika), [«Картечь»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#kartech), [«Слаймость»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#slaimost), [«Плавление»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#plavlenie), [«Поступь ткача»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#postup-tkacha) и «Восходящий поток». Зачарование [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika) к этому моменту уже было вручено победителю Рыцарского турнира, который прошёл <mark style="color:blue;">16 мая 2026 года</mark>.
+В скором времени сервере появилась новая партия кастомных зачарований: [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika), [«Картечь»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#kartech), [«Слаймость»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#slaimost), [«Плавление»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#plavlenie), [«Поступь ткача»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#postup-tkacha) и [«Восходящий поток»](#user-content-fn-2)[^2]. Зачарование [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika) к этому моменту уже было вручено победителю Рыцарского турнира, который прошёл <mark style="color:blue;">16 мая 2026 года</mark>.
+
+<mark style="color:blue;">В конце мая</mark> по итогам всеобщего голосования сообщества администрация разрешила [крюку-хватателю](../o-proekte/krafty/kryuk-khvatatel.md), появившемуся ещё в седьмом сезоне, захватывать мобов. Забавный предмет превратился в по-настоящему полезный инструмент для строителей и фермеров, заметно упростив транспортировку существ.
+
+<figure><img src="../.gitbook/assets/2026-10-30_15.26.21.png" alt=""><figcaption><p><em>Как моб отображается на игроке после использования крюка</em></p></figcaption></figure>
+
+Чуть позже, <mark style="color:blue;">3 июля 2026 года</mark>, администрация приняла решение убрать зачарование [«Восходящий поток»](#user-content-fn-2)[^2] из-за крайне низкой популярности и заметной нагрузки на сервер. В тот же день добавили настольную игру «Русская рулетка» и [крафт револьвера](../o-proekte/osobennosti/nastolnye-igry.md#russkaya-ruletka) для неё.
+
+Отдельным удачным нововведением сезона стало добавление четырёх новых уникальных [гибридов рас](../o-proekte/osobennosti/rasy.md#gibridy): [сергал](../o-proekte/osobennosti/rasy.md#sergal), [скалковый шипохвост](../o-proekte/osobennosti/rasy.md#skalkovyi-shipokhvost), [адская гончая](../o-proekte/osobennosti/rasy.md#adskaya-gonchaya) и [негроб](../o-proekte/osobennosti/rasy.md#negrob). Все их характеристики были настроены самими игроками и приняты администрацией проекта.
+
+## Города
+
+### Империя Энрин (燕麟帝国)
+
+Величественное и эстетичное восточное государство, основанное посреди океана на удалённом острове. По замыслу основателей — игроков <mark style="color:$tint;">**I\_valentain\_I**</mark> и <mark style="color:$tint;">**PURRCHIN**</mark> — мощь империи измерялась спокойствием, непоколебимостью и верностью традициям. Строительство масштабного замка, портовых причалов и садов с цветущей сакурой завершилось <mark style="color:blue;">24 марта 2026 года</mark> при активной поддержке <mark style="color:$tint;">**KALEO0023, Jodaell\_, \_KOTIK\_B\_CAXAPE\_, ElizarovS**</mark> и <mark style="color:$tint;">**\_\_MrSam\_\_**</mark>. Каждый из них внёс вклад в возведение построек или добычу ресурсов для проекта.
+
+<figure><img src="../.gitbook/assets/2026-04-15_14.28.29.png" alt=""><figcaption><p><em>Вид на замок, пруд «Великого аксолотля» и пикник игрока <mark style="color:$tint;"><strong>PURRCHIN</strong></mark></em></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/2026-05-24_19.42.14.png" alt=""><figcaption><p><em>Замок, сакуры и додзё</em></p></figcaption></figure>
+
+Возле храма империи открыли аутентичный домик для получения предсказаний омикудзи (за пожертвование в один алмаз). На всей территории Энрин действовал строгий свод правил, запрещавший причинять вред живым существам.
+
+<figure><img src="../.gitbook/assets/2026-03-24_13.58.24.png" alt=""><figcaption><p><em>Алтарь с предсказаниями</em></p></figcaption></figure>
+
+### Город на Горе: ШаньДу (Shān Dū / 山萠)
+
+Живописное восточное поселение в фэнтезийно-азиатском стиле, основанное <mark style="color:blue;">31 января 2026 года</mark> игроком <mark style="color:$tint;">**Creator\_MoD\_**</mark>. Город раскинулся на вершине величайшей вишнёвой горы сервера и предлагал жителям и редким путникам уединение, покой дикой природы и завораживающие горные пейзажи, утопающие в розовом цвету.
+
+Согласно истории города, <mark style="color:$tint;">**Creator\_MoD\_**</mark> был благородным самураем, который после долгих лет изнурительных сражений решил навсегда оставить кровопролитие. Пройдя трудный путь, он набрёл на тихую, скрытую туманами вишнёвую рощу, где обрёл душевное равновесие и построил скромную хижину. Здесь самурай подружился с необычным обитателем горы — белым песцом, который жил в глубокой норе и заваривал уникальный лисий чай с волшебными свойствами. Защита этой магической рощи стала делом чести самурая, а поселение постепенно разрослось вокруг его уединённого жилища.
 
 [^1]: Оружие, броня, а также другие предметы с уникальными свойствами или зачарованиями.
+
+[^2]: Зачарование для элитр, позволяющее парить над лавой, магмой или огнём, взамен на прочность крыльев.
