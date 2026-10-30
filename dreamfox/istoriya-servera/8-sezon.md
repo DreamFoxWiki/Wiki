@@ -105,6 +105,10 @@ layout:
 
 <figure><img src="../.gitbook/assets/2026-10-30_12.35.10.png" alt=""><figcaption><p><em>Оставшееся от метеорита Края в месе</em></p></figcaption></figure>
 
+На одном из тропических островов администрация возвела казино, которое стало ещё одним необычным местом восьмого сезона. На протяжении всего сезона игроков приглашали посетить заведение и испытать удачу в многочисленных игровых автоматах. Каждый желающий мог попытать удачи, проведя время за различными азартными развлечениями. Казино не раз напоминало о себе, а интерес к нему сохранялся вплоть до конца сезона. По слухам, постоянный поток посетителей и их игра принесли администрации весьма внушительное состояние.
+
+<figure><img src="../.gitbook/assets/2026-10-30_15.15.16.png" alt=""><figcaption><p><em>Вид на песчаный пляж и казино</em></p></figcaption></figure>
+
 Во второй половине мая, а именно <mark style="color:blue;">19 мая 2026 года</mark>, администратор <mark style="color:$tint;">**\_Foxya\_**</mark> представил кастомный инструмент — [ростомерку](../o-proekte/krafty/rostomerka.md), доступную игрокам с ролью  [«Ягода» <img src="../.gitbook/assets/image (814).png" alt="" data-size="line">](../o-proekte/vasha-podderzhka/rol-yagoda.md). С её помощью можно изменять размеры мобов и некоторых сущностей.
 
 В скором времени сервере появилась новая партия кастомных зачарований: [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika), [«Картечь»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#kartech), [«Слаймость»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#slaimost), [«Плавление»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#plavlenie), [«Поступь ткача»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#postup-tkacha) и [«Восходящий поток»](#user-content-fn-2)[^2]. Зачарование [«Баллистика»](../o-proekte/osobennosti/unikalnye-zacharovaniya.md#ballistika) к этому моменту уже было вручено победителю Рыцарского турнира, который прошёл <mark style="color:blue;">16 мая 2026 года</mark>.
