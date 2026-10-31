@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: square-8
 layout:
   width: default
