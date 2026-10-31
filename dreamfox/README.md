@@ -70,5 +70,6 @@ layout:
 * [Пятый сезон](istoriya-servera/5-sezon.md)
 * [Шестой сезон](istoriya-servera/6-sezon.md)
 * [Седьмой сезон](istoriya-servera/7-sezon.md)
+* [Восьмой сезон](istoriya-servera/8-sezon.md)
 * [Легенды проекта](istoriya-servera/legendy-proekta.md)
 * [Интересные истории](istoriya-servera/interesnye-istorii/)
