@@ -13,6 +13,7 @@ icon: octagon-xmark
 
 * <mark style="color:$danger;">**Чит-модификации (любого вида)**</mark>
 * **Aristois**
+* **Accurate Block Placement**
 * **Baritone**
 * **Better PVP (все версии)**
 * **ClientCommands**
